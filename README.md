@@ -2,10 +2,11 @@
    <img align="right" src="https://komarev.com/ghpvc/?username=ProgrammerShipon&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@ProgrammerShipon)
+[![wakatime](https://wakatime.com/badge/user/018dadfd-1373-4fd3-969b-3b583b094ded.svg)](https://wakatime.com/@ProgrammerShipon)
+
 
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F85D7F&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shipon+Hossen+Raju+✌️;" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F85D7F&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shipon+Hossen+Raju+✌️;I'm+a+MERN+Stack+Developer;" />
 </h1>
 
 <p align="center"> 
@@ -151,7 +152,7 @@
 </p>
 
 <a align="center" href="https://github.com/ProgrammerShipon">
-   <img alt="Shipon Hossen Raju's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ProgrammerShipon&custom_title=Md.%20Shariful%20Islam's%20GitHub%20Activity%20Graph&border_color=7F3FBF&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&title_color=F85D7F&area=true" alt="Shipon Hossen Raju's Activity Graph" />
+   <img alt="Shipon Hossen Raju's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ProgrammerShipon&custom_title=Shipon%20Hossen%20Raju's%20GitHub%20Activity%20Graph&border_color=7F3FBF&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&title_color=F85D7F&area=true" alt="Shipon Hossen Raju's Activity Graph" />
 </a>
 
 <br />
