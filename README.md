@@ -84,14 +84,6 @@
 <br/>
 <h1>Top Open Source -</h1>
 
-
-[![Evogym](https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerShipon&repo=EvoGym&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ProgrammerShipon/EvoGym)
-[![SMartYT-eCommerce](https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerShipon&repo=SMartYT-eCommerce&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ProgrammerShipon/SMartYT-eCommerce)
-[![MovieVerse](https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerShipon&repo=Movie-Verse&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ProgrammerShipon/Movie-Verse)
-[![MeetCast](https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerShipon&repo=MeetCast&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ProgrammerShipon/MeetCast)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerShipon&repo=Portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ProgrammerShipon/Portfolio)
-[![Soul-Sync](https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerShipon&repo=Soul-Sync&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ProgrammerShipon/Soul-Sync)
-
 <p align="left">
    <a 
       href="https://github.com/ProgrammerShipon?tab=repositories" 
